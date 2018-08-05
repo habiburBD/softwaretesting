@@ -26,9 +26,9 @@ There is no bangladeshi site that provides a high quality e-learning course that
 # Course Content
 ## Learning material
 The course materials are derived from the foundation course syllabus in ISTQB (International Software Testing Qualifications Board).
-See file: SoftwareTestingCourseMaterial.pdf
+* See file: SoftwareTestingCourseMaterial.pdf
 
 ## Sample questions and answers
 The sample questions and answers are also provided by ISTQB (International Software Testing Qualifications Board).
-See file: Sample-Exam.pdf
-See file: Sample-Exam-Answers.pdf
+* See file: Sample-Exam.pdf
+* See file: Sample-Exam-Answers.pdf
