@@ -32,3 +32,8 @@ The course materials are derived from the foundation course syllabus in ISTQB (I
 The sample questions and answers are also provided by ISTQB (International Software Testing Qualifications Board).
 * See file: Sample-Exam.pdf
 * See file: Sample-Exam-Answers.pdf
+
+# Next Steps/To Do
+* Read and understand the learning content
+* Decide the language in which the course material will be delivered (I suggest to use Bengali)
+* Start developing course material starting from **Section 1.1** (SoftwareTestingCourseMaterial.pdf)
