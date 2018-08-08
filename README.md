@@ -7,7 +7,7 @@ There is no bangladeshi site that provides a high quality e-learning course that
 
 ## Stakeholders and Needs
  * Content Developer: to develop e-learning content (learning material, examples, tests/quizzes)
- * Content Provider and host: to create the e-learning course on an online delivery platform (Sudokho.com)
+ * Content Provider and host: to create the e-learning course on an online delivery platform (Sudoksho.com)
  * Learners: to 1) understand the foundations of software testing, 2) become familar with the basics and foundations of software testing
  * Competitors: None yet
 
